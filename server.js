@@ -8,7 +8,7 @@ app.get("/",function(req,res){
 });
 
 app.get("/contact",function(req,res){
-    res.send("Contact me at: personal@loganpreston.com");
+    res.send("Contact me at: email@email.com");
 });
 
 app.get("/about",function(req,res){
